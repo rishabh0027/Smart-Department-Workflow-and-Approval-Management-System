@@ -28,23 +28,7 @@ A web-based workflow management system developed using Node.js, Express.js, Mong
 - Approve requests
 - Reject requests
 
-### Request Workflow
-
-```text
-Student
-   |
-   ▼
-Mentor Approval
-   |
-   ├── Reject → Rejected
-   |
-   ▼
-HOD Approval
-   |
-   ├── Reject → Rejected
-   |
-   ▼
-Approved
 
 Author
 Rishabh Singh
+
